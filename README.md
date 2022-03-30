@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 </p>
 <!-- - 🔭 I’m currently working on ... -->
 - 🔭 Recently I've been working using my company's github account
+
 - 🌱 I’m currently learning Go lang and software designing
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
