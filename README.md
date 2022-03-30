@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amangoel998)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <!-- - 🔭 I’m currently working on ... -->
 - 🔭 Recently I've been working using my company's github account
 
