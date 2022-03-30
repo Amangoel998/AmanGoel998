@@ -8,11 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
-
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amangoel998)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Go lang and software designing
