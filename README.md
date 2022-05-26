@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Amangoel998/AmanGoel998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 - 🔭 Recently I've been working using my company's github account
 
-- 🌱 I’m currently learning Go lang and software designing
+- 🌱 I’m currently working on Python, Go lang and software designing
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
